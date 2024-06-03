@@ -1,0 +1,71 @@
+/* Imagine you work for amazon, what is the Meta data information you will store for
+an item in your Database. For E.g. the item is a shirt, once you have stored the Meta
+data how will use the information? */
+
+Solution :
+
+For an item like a shirt, the metadata stored in Amazon's database might include the following:
+
+Metadata Information for a Shirt :
+-----------------------------------
+
+Basic Information:
+
+Item ID: Unique identifier for the shirt.
+Title: Descriptive name of the shirt.
+Brand: Brand or manufacturer of the shirt.
+Description: Detailed description of the shirt, including features and benefits.
+Category: Category under which the shirt is listed (e.g., Men's Clothing, Women's Clothing).
+
+Attributes:
+
+Size: Available sizes (e.g., S, M, L, XL).
+Color: Available colors (e.g., Red, Blue, Green).
+Material: Material composition (e.g., 100% Cotton, Polyester Blend).
+Pattern: Design pattern (e.g., Solid, Striped, Checked).
+Fit: Type of fit (e.g., Slim Fit, Regular Fit).
+Sleeve Length: Sleeve type (e.g., Short Sleeve, Long Sleeve).
+
+Pricing and Availability:
+
+Price: Current price of the shirt.
+Discount: Any discounts applicable.
+Stock Level: Quantity available in stock.
+SKU: Stock Keeping Unit, unique identifier for tracking inventory.
+
+Sales and Marketing:
+
+Images: High-quality images of the shirt from different angles.
+Videos: Promotional videos, if available.
+Reviews: Customer reviews and ratings.
+Tags: Keywords and tags for search optimization.
+Sales Rank: Sales rank within its category.
+
+Logistics:
+
+Shipping Weight: Weight of the shirt for shipping purposes.
+Dimensions: Dimensions of the packaged item.
+Supplier Information: Details of the supplier or vendor.
+Regulatory Information
+
+Usage of Metadata :
+--------------------
+
+Search and Discovery
+
+1)Enhanced Search Results: Metadata like tags, title, and description help improve search engine optimization (SEO) to ensure customers find the shirt easily.
+2)Filters and Sorting: Attributes such as size, color, and price allow customers to filter and sort search results effectively.
+
+Personalization and Recommendations
+
+1)Personalized Recommendations: Based on user behavior and preferences, recommend similar items or items that are frequently bought together.
+2)Targeted Marketing: Use demographic and purchasing data to target specific customer segments with personalized marketing campaigns.
+
+Inventory Management
+
+1)Stock Management: Monitor stock levels to ensure timely restocking and prevent stockouts.
+Demand Forecasting: Analyze sales trends to predict future demand and manage inventory accordingly.
+Customer Experience
+2)Product Information: Provide comprehensive information to help customers make informed purchasing decisions.
+Reviews and Ratings: Display customer reviews to build trust and assist in decision-making.
+Sales Analysis.
